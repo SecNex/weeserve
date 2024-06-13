@@ -5,7 +5,7 @@ WeeServe is a development server. It is designed to be used in development envir
 ## Installation
 
 ```bash
-curl -sSL https://serverify.de/scripts/weeserve-install.sh | bash
+curl -sSL https://scripts.secnex.io/weebserve/install.sh | bash
 ```
 
 ## Usage
